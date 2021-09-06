@@ -3,5 +3,10 @@ Remote has been changed
 remote changed again
 
 
-555555555
+<<<<<<< HEAD
+77777775666666666
+=======
+8888888885666666666
+>>>>>>> feature/readme
+
 
